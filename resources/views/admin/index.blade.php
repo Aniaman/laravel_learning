@@ -14,7 +14,7 @@
 
             <div class="page-title-right">
               <ol class="breadcrumb m-0">
-                <li class="breadcrumb-item"><a href="javascript: void(0);">Testing</a></li>
+                <li class="breadcrumb-item"><a href="javascript: void(0);">Upcube</a></li>
                 <li class="breadcrumb-item active">Dashboard</li>
               </ol>
             </div>
@@ -31,8 +31,8 @@
               <div class="d-flex">
                 <div class="flex-grow-1">
                   <p class="text-truncate font-size-14 mb-2">Total Sales</p>
-                  <h4 class="mb-2">1452</h4>
-                  <p class="text-muted mb-0"><span class="text-success fw-bold font-size-12 me-2"><i class="ri-arrow-right-up-line me-1 align-middle"></i>9.23%</span>from previous period</p>
+                  <h4 class="mb-2">1830</h4>
+                  <p class="text-muted mb-0"><span class="text-success fw-bold font-size-12 me-2"><i class="ri-arrow-right-up-line me-1 align-middle"></i>9.83%</span>from previous period</p>
                 </div>
                 <div class="avatar-sm">
                   <span class="avatar-title bg-light text-primary rounded-3">
